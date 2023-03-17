@@ -1,0 +1,12 @@
+.header-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+
+  h1, h3 {
+    color: white;
+    margin: 0;
+    text-transform: uppercase;
+  }
+}
