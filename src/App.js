@@ -1,9 +1,9 @@
-import Intro from '../src/Intro'
+import Intro from './LandingPage/LandingPage'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Intro />
     </div>
   );
