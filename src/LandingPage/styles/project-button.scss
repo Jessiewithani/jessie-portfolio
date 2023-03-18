@@ -1,0 +1,11 @@
+.project-button-image {
+  // background-color: rgba(248, 248, 255, 0.434);
+  width: 210px;
+  cursor: pointer;
+  height: 100%;
+  filter: grayscale(100%);
+}
+
+.project-button-image:hover {
+  filter: grayscale(0);
+}

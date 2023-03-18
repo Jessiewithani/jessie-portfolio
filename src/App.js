@@ -1,10 +1,14 @@
-import Intro from './LandingPage/LandingPage'
+import LandingPage from './LandingPage/LandingPage';
+import About from './About/About';
+import Skills from './Skills/Skills';
 import './App.css';
 
 function App() {
   return (
     <div className="app">
-      <Intro />
+      <LandingPage />
+      <About />
+      <Skills />
     </div>
   );
 }
