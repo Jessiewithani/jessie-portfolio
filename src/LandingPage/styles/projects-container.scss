@@ -1,6 +1,8 @@
 .projects-container {
-  background-color: pink;
+  // background-color: pink;
+  display: flex;
   width: 1100px;
   height: 580px;
   margin: auto;
+  justify-content: space-between;
 }
