@@ -1,16 +1,13 @@
+import { useEffect } from 'react';
 import LandingPage from './LandingPage/LandingPage';
 import About from './About/About';
 import Skills from './Skills/Skills';
-import './App.css';
+import './globals.css';
 
 function App() {
-  return (
-    <div className="app">
-      <LandingPage />
-      {/* <About /> */}
-      {/* <Skills /> */}
-    </div>
-  );
+  
+
+  return <LandingPage />
 }
 
 export default App;

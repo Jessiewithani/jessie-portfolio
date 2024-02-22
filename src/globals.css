@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --toastify-color-light: #00ffe7;
+  --toastify-text-color-light: black;
+  --toastify-font-family: Montserrat;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Heroes';
+    src: url('/fonts/Heroes-Bold.woff2') format('woff2');
+  }
+} */
