@@ -1,1 +1,0 @@
-export const landingPage_tw = 'bg-[blue]';

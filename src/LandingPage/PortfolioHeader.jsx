@@ -1,4 +1,4 @@
-import '../LandingPage/styles/portfolio-header.scss';
+import './styles/portfolio-header.scss';
 
 export default function PortfolioHeader() {
   return (

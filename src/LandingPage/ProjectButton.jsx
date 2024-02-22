@@ -1,5 +1,5 @@
 
-import '../LandingPage/styles/project-button.scss';
+import './styles/project-button.scss';
 
 // have background images for the buttons
 // by default the images are black and white

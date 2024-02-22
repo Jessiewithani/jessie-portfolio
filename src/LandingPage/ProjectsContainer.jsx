@@ -1,6 +1,6 @@
-import ProjectButton from '../LandingPage/ProjectButton';
+import ProjectButton from './ProjectButton';
 import { Projects } from '../projects';
-import '../LandingPage/styles/projects-container.scss';
+import './styles/projects-container.scss';
 
 export default function ProjectsContainer() {
   const projectButton = Projects.map((project) => {

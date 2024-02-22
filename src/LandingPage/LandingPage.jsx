@@ -1,12 +1,11 @@
-import PortfolioHeader from '../LandingPage/PortfolioHeader';
-import ProjectsContainer from '../LandingPage/ProjectsContainer';
-import './styles/landing-page.scss';
+import PortfolioHeader from './PortfolioHeader';
+import ProjectsContainer from './ProjectsContainer';
+import * as styles from './styles/landingPage.tailwind.ts';
 
 export default function LandingPage() {
   return (
-    <div className="bg-black">
+    <div className={styles.landingPage_tw}>
       <PortfolioHeader />
-      {/* add a porjects container underneath the header */}
       <ProjectsContainer />
     </div>
   );
