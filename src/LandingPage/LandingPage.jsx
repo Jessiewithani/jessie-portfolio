@@ -4,7 +4,7 @@ import './styles/landing-page.scss';
 
 export default function LandingPage() {
   return (
-    <div className="intro-wrapper">
+    <div className="bg-black">
       <PortfolioHeader />
       {/* add a porjects container underneath the header */}
       <ProjectsContainer />

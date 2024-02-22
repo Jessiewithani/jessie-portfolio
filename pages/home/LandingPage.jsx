@@ -1,5 +1,5 @@
-import PortfolioHeader from '../LandingPage/PortfolioHeader';
-import ProjectsContainer from '../LandingPage/ProjectsContainer';
+import PortfolioHeader from '../landingPage/PortfolioHeader';
+import ProjectsContainer from '../landingPage/ProjectsContainer';
 import './styles/landing-page.scss';
 
 export default function LandingPage() {

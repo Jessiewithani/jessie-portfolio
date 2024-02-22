@@ -1,5 +1,5 @@
-import { LandingPage } from './LandingPage/LandingPage';
+import { LandingPage } from './landingPage/LandingPage';
 
-export default Home = () => {
+export default function HomePage() {
   return <LandingPage />
 };
