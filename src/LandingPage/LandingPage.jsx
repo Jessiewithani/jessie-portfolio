@@ -1,6 +1,6 @@
-import PortfolioHeader from './PortfolioHeader';
+import PortfolioHeader from '../app/components/headers/portfolioHeader/PortfolioHeader.jsx';
 import ProjectsContainer from './ProjectsContainer';
-import * as styles from './styles/landingPage.tailwind.ts';
+import * as styles from './landingPage.tailwind.ts';
 
 export default function LandingPage() {
   return (

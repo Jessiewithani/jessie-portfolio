@@ -5,6 +5,7 @@ import '../About/styles/about.scss';
 export default function About() {
   return (
     <div className="about-wrapper">
+      // can incorporate pagination here
       <div className="chapter-one">
         <h1>I. The Forgotten</h1>
         <p>

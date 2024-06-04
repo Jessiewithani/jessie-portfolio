@@ -1,5 +1,5 @@
 import ProjectButton from './ProjectButton';
-import { Projects } from '../projects';
+import { Projects } from '../data/projects';
 import './styles/projects-container.scss';
 
 export default function ProjectsContainer() {
